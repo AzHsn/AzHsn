@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz Hasan</h1>
-<h3 align="center">A passionate Junior DevOps from Egypt</h3>
+<h3 align="center">A Junior DevOps </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhsn&label=Profile%20views&color=0e75b6&style=flat" alt="azhsn" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **kubernetes**
 
-- 💬 Ask me about **docker, Ansible, bash**
+- 💬 Ask me about **Docker, Ansible, Bash Shell Scripting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
