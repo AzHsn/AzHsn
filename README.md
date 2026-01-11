@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhsn&label=Profile%20views&color=0e75b6&style=flat" alt="azhsn" /> </p>
 
-- 🔭 I’m currently working on **Maat-System**
+- 🔭 I’m currently in NTI Shcolrship **Maat-System**
 
 - 🌱 I’m currently learning **kubernetes**
 
