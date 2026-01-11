@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently in NTI Shcolrship **Maat-System**
 
-- 🌱 I’m currently learning **kubernetes**
-
-- 💬 Ask me about **Docker, Ansible, Bash Shell Scripting**
+- 💬 Ask me about **Docker, Ansible, conteninous intgeration & conteninous Deployment Bash Shell Scripting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
